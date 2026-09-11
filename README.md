@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**oanh4984/oanh4984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer still figuring things out.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and building small stuff
+- Interested in backend, scripting, and automation
+- Always open to trying new tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / TypeScript
+- Git
+- Linux
+
+### Projects
+A few ideas cooking... will push them here when ready.
